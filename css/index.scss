@@ -1,0 +1,30 @@
+$purple-300: rgba(196, 181, 253);
+$gray-700: rgba(55, 65, 81);
+
+.bg-header {
+  background-color: $purple-300 !important;
+}
+
+.p-text {
+  color: $gray-700 !important;
+}
+
+.container {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.image {
+  width: 250px;
+  height: 250px;
+}
+
+.image-project {
+  width: 200px;
+  height: 200px;
+}
+
+.image-skills {
+  width: 24px;
+  height: 24px;
+}

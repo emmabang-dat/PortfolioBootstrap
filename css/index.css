@@ -1,0 +1,29 @@
+.bg-header {
+  background-color: rgb(196, 181, 253) !important;
+}
+
+.p-text {
+  color: rgb(55, 65, 81) !important;
+}
+
+.container {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.image {
+  width: 250px;
+  height: 250px;
+}
+
+.image-project {
+  width: 200px;
+  height: 200px;
+}
+
+.image-skills {
+  width: 24px;
+  height: 24px;
+}
+
+/*# sourceMappingURL=index.css.map */
